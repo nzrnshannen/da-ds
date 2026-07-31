@@ -1,6 +1,6 @@
 # Python Data Analysis and Data Science Repository
 
-Welcome to the `python-da-ds` repository! This repository serves as a collection of data analysis and data science projects, exploratory data analysis (EDA) workflows, and machine learning experiments. It is structured to support both Python and R code, though the focus is currently on Python-based data analysis.
+Welcome to the `python-da-ds` repository! This repository consists of data analysis and data science notes, simple projects, and can also be used as a resource for reviews. I will be using both Python and R languages for the materials in this repository.
 
 > **Note:** Some notebooks and analyses in this repository are currently a work in progress and may be updated over time.
 ## Repository Structure
