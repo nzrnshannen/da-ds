@@ -24,6 +24,7 @@ da-ds/
 │   │   │   ├── penguins.ipynb
 │   │   │   └── titanic.ipynb
 │   │   ├── regression-trend-eda/
+│   │   │   ├── diamonds.ipynb
 │   │   │   └── tips.ipynb
 │   │   └── time-series/
 │   │
@@ -37,7 +38,7 @@ Contains Python-based workflows using popular libraries such as `pandas`, `matpl
 
 - **`data-analysis/`**: Focuses on Exploratory Data Analysis (EDA) and general data manipulation.
   - **`classification-grouping-eda/`**: EDA on datasets commonly used for classification and grouping (e.g., [Iris](python/data-analysis/classification-grouping-eda/iris.ipynb), Palmer Penguins, Titanic).
-  - **`regression-trend-eda/`**: EDA for continuous targets and identifying trends (e.g., [Tips](python/data-analysis/regression-trend-eda/tips.ipynb)).
+  - **`regression-trend-eda/`**: EDA for continuous targets and identifying trends (e.g., [Tips](python/data-analysis/regression-trend-eda/tips.ipynb), [Diamonds](python/data-analysis/regression-trend-eda/diamonds.ipynb)).
   - **`time-series/`**: Analysis of sequential data over time.
 - **`data-science/`**: Dedicated to more advanced machine learning models, training pipelines, and data science methodologies.
 
