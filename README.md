@@ -30,6 +30,7 @@ da-ds/
 │   │       └── flights.ipynb
 │   │
 │   └── data-science/
+│       └── Telco Customer Churn Prediction & Machine Learning Pipeline.ipynb
 │
 └── r/
 ```
@@ -42,6 +43,7 @@ Contains Python-based workflows using popular libraries such as `pandas`, `matpl
   - **`regression-trend-eda/`**: EDA for continuous targets and identifying trends (e.g., [Tips](python/data-analysis/regression-trend-eda/tips.ipynb), [Diamonds](python/data-analysis/regression-trend-eda/diamonds.ipynb)).
   - **`time-series/`**: Analysis of sequential data over time (e.g., [Flights](python/data-analysis/time-series/flights.ipynb)).
 - **`data-science/`**: Dedicated to more advanced machine learning models, training pipelines, and data science methodologies.
+  - [Telco Customer Churn Prediction & Machine Learning Pipeline](python/data-science/Telco%20Customer%20Churn%20Prediction%20%26%20Machine%20Learning%20Pipeline.ipynb)
 
 ### `r/`
 Placeholder directory for R-based scripts, analysis, and statistical modeling.
